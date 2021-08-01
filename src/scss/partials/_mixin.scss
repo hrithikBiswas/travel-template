@@ -1,0 +1,8 @@
+/* MIXIN */
+@mixin button {
+    background-color: var(--first-color);
+    color: var(--white-color);
+    font-weight: var(--font-semi-bold);
+    padding: 1rem 2rem;
+    transition: 0.4s;
+}
