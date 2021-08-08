@@ -1,5 +1,5 @@
 // import Swiper JS
-import Swiper from "swiper/bundle";
+import Swiper from "swiper/swiper-bundle.min.js";
 // import Swiper styles
 import "swiper/swiper.scss";
 
